@@ -15,7 +15,7 @@ class HomepageState extends State<Homepage> {
     // Initialize WebView controller
     _controller = WebViewController()
       ..setJavaScriptMode(JavaScriptMode.unrestricted)
-      ..loadRequest(Uri.parse('https://betterburger.tabin.co.nz/'));
+      ..loadRequest(Uri.parse('https://betterburger-app.tabin.co.nz'));
   }
 
   @override
