@@ -1,4 +1,4 @@
-package com.tabin.betterburger.betterburger
+package com.tabin.betterburger
 
 import io.flutter.embedding.android.FlutterActivity
 
