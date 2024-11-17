@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293955252029",
+    "project_id": "tabin-better-burger",
+    "storage_bucket": "tabin-better-burger.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293955252029:android:6b6a4c37d59cbcf3081f54",
+        "android_client_info": {
+          "package_name": "com.tabin.betterburgerr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomvITbgzmSYPgkX0bQP1qDN-3irhgtXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
